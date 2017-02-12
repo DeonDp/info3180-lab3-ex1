@@ -5,8 +5,6 @@ from_name ='Noed Nikretep'
 to_name ='Deon Peterkin'
 subject ='INFO3180 mail'
 msg= 'I am king'
-username ='noednikretep@gmail.com'
-password ='aug2010deon'
 message = """From: {} <{}> 
 To: {} <{}> 
 Subject: {} 
